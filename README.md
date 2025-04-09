@@ -3,7 +3,7 @@
 A simple web application to manage Courses data with **Create**, **Read**, **Update**, and **Delete** (CRUD) operations. This app allows administrators to add, view, update, and remove courses records.
 
 # Live Demo:
-[View Courses Management App]([(https://raheeqmousa.github.io/Crud-example/)])
+[View Courses Management App](https://raheeqmousa.github.io/Crud-example/)
 
 ## Features
 - **Create**: Add new course records
